@@ -1,0 +1,102 @@
+{
+  "experiences": [
+    {
+      "company": "Scout Troop 123",
+      "location": "Herriman UT",
+      "position": "Patrol Leader",
+      "start": "Nov 2020",
+      "end": "Aug 2022",
+      "description": "!! fill !!"
+    },
+    {
+      "company": "Dungeons and Dragons Club",
+      "location": "Mountain Ridge High School, Herriman UT",
+      "position": "Co-Owner",
+      "start": "Oct 2020",
+      "end": "May 2022",
+      "description": "!! fill !!"
+    },
+    {
+      "company": "Tilly's",
+      "location": "Mountain View Village, Riverton UT",
+      "position": "Sales Associate",
+      "start": "Oct 2022",
+      "end": "May 2023",
+      "description": "!! fill !!"
+    },
+    {
+      "company": "Tilly's",
+      "location": "Mountain View Village, Riverton UT",
+      "position": "Sales Associate",
+      "start": "Oct 2023",
+      "end": "Nov 2024",
+      "description": "!! fill !!"
+    },
+    {
+      "company": "Programming Club",
+      "location": "Salt Lake Community College, Taylorsville UT",
+      "position": "Officer & Community Manager",
+      "start": "Aug 2023",
+      "end": "May 2025",
+      "description": "!! fill !!"
+    },
+    {
+      "company": "Will Green's Workshop",
+      "location": "Private Residence, Murray UT",
+      "position": "Technical Operator & Caregiver",
+      "start": "Apr 2026",
+      "end": "Present",
+      "description": "!! fill !!"
+    }
+  ],
+
+  "educations": [
+    {
+      "school": "Mountain Ridge High School",
+      "location": "Herriman UT",
+      "degree": "High School Diploma",
+      "start": "Aug 2019",
+      "end": "June 2022",
+      "focus": null
+    },
+    {
+      "school": "Salt Lake Community College",
+      "location": "Taylorsville UT",
+      "degree": "Associate of Science (A.S.)",
+      "start": "Aug 2022",
+      "end": "May 2025",
+      "focus": "Computer Science & Information Systems"
+    },
+    {
+      "school": "Utah Valley University",
+      "location": "Taylorsville UT",
+      "degree": "Exploration",
+      "start": "Aug 2025",
+      "end": "Aug 2026",
+      "focus": "3D AnimaƟon & Game Development"
+    }
+  ],
+
+  "certifications": [
+    {
+      "title": "High School Diploma",
+      "authority": "Mountain Ridge High School",
+      "completion": "June 2022"
+    },
+    {
+      "title": "Associate of Science (A.S.) in Computer Science & Information Systems",
+      "authority": "Salt Lake Community Collage",
+      "completion": "May 2025"
+    },
+    {
+      "title": "Certificate of Proficiency (C.P.) in Computer Science Fundamentals",
+      "authority": "Salt Lake Community Collage",
+      "completion": "Dec 2024"
+    },
+    {
+      "title": "Certificate of Proficiency (C.P.) in Software Development",
+      "authority": "Salt Lake Community Collage",
+      "completion": "May 2025"
+    }
+  ]
+}
