@@ -8,6 +8,10 @@ body {
   font-family: "Courier New", Courier, monospace;
 }
 
+body a {
+  color: skyblue;
+}
+
 .experiences-container {
   width: 50%;
   justify-self: center;
